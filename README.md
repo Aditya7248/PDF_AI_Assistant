@@ -103,6 +103,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 For questions or support, contact:
 **Aditya Tiwari**
-- [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-24b4b924a/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-24b4b924a/)
 - Email: tiwariaditya2707@gmail.com
 

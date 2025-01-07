@@ -72,7 +72,7 @@
 ## **Example Interaction**
 
 ### **Screenshots**:
-![App Screenshot](demo.png)
+![App Screenshot](https://github.com/Aditya7248/PDF_AI_Assistant/blob/main/image%20and%20video/main%20screen.png)  
 
 ### **Demo Video**:
 [PDF_AI_Assistant_Demo](https://your-demo-video-link.com)

@@ -28,8 +28,8 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/pdf-ai-assistant.git
-   cd pdf-ai-assistant
+   git clone https://github.com/Aditya7248/PDF_AI_Assistant.git
+   cd PDF_AI_Assistant
    ```
 
 2. **Set Up a Virtual Environment**:
@@ -44,6 +44,7 @@
    ```
 
 4. **Set Up OpenAI API Key**:
+   - For security reasons, users must provide their own OpenAI API key.
    - Create a `.env` file in the root directory.
    - Add your OpenAI API key:
      ```plaintext
@@ -101,7 +102,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ---
 
 For questions or support, contact:
-**Your Name**
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- Email: your-email@example.com
+**Aditya Tiwari**
+- [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-24b4b924a/)
+- Email: tiwariaditya2707@gmail.com
 

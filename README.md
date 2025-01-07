@@ -75,7 +75,8 @@
 ![App Screenshot](https://github.com/Aditya7248/PDF_AI_Assistant/blob/main/image%20and%20video/main%20screen1.png
 )  
 ### **Demo Video**:
-[PDF_AI_Assistant_Demo](https://your-demo-video-link.com)
+[PDF_AI_Assistant_Demo](https://github.com/user-attachments/assets/6f3aebf1-f2db-4fa5-8c0b-d697865a3faf) 
+
 
 ---
 
